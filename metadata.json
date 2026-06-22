@@ -1,0 +1,6 @@
+{
+  "name": "장성군 봄·가을 대표 축제 비교 분석",
+  "description": "전남 장성군의 봄 황룡강 음악 힐링 축제와 가을 황룡강 가을꽃축제 및 백양단풍축제를 정밀하게 비교 분석하고 지속 가능한 정책 대안을 제시하는 전문 프리젠테이션 슬라이드 애플리케이션입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
